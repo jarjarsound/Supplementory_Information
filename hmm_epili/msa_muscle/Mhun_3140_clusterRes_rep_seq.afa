@@ -1,0 +1,406 @@
+>HTY51947.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanomicrobiales archaeon] 
+MKK---FQK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------SEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVYKGVQQATSNIVINGEVYGDA
+EG-TADVNSGPHGIHTILFSIQLAAGGTPVDLNRTVLTYQNRSVL-QN---L-D-FAS---N----IY----KPG-V-QP
+-------------------SNYQW-CIV--ST-----Q-----NDD-GDTALERNEKFTIQANL------S---------
+--------MGSSSLPAGEEFTLTIKPDVGAALPLVKTAPGGITVM----N--ILT
+>OPY35396.1 MAG: flagellin [Methanoregula sp. PtaU1.Bin051] 
+MS----YKN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DSAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQETVYKGVEQATSNIQMIGQVYGMS
+NA-SSN--SSLQGIERIKFTLGLAPGAPSVDLTKLVVVYSNETTS-PI---L-L-QHT---T----------------GA
+-------------------NPGTL-VFT--TT------K----AGT-AVTTMSGQEQIDVEFLIGSSAATSS-------V
+--------N---TPGKNTKITIELRPAVGASLPFTRTVPATIQVV----N--SLY
+>WP_292368682.1 flagellin [Methanoregula sp. UBA64] 
+MSS-L-KYN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKAQETVHTSVQQASSTLEIVGNVYGST
+AA-GS----TNAGITSVNFTVALAPGGTAVDFSKVVLTYSNATVL-QT---L-N-QTM---PTSG-NY----PVT-A-AL
+-------------------SAGHW-GVT--GV-----NN---DVGT-SNDLLESGEQFQVTAMP------P---------
+--------Y---NIMANDRFTIEIKPAVGAAFDITRSVPGGLNQV----N--LLY
+>WP_109968343.1 flagellin [Methanospirillum lacunae] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------ELAFSGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKSQEVTYSGIKQSTSNIVLDGQLYGDA
+S-----------DITTLTLYLSIPEGGQPQKLSDVDFLWTLNGGA-VT---I-V-TG-----------------------
+--------------------------------------T----DAN-SVGLLQPGDRAKITIAL------AA-------A
+--------N---RPGPGSSFTLEIKPKVGASSLISKSLGSGYAG-----G--VIV
+>PKL70533.1 MAG: flagellin [Methanomicrobiales archaeon HGW-Methanomicrobiales-1] 
+MNS-L-KHN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKAQESVHTGVQQATSALEPSGPVTVRA
+AT-G------GLTADNVSFYLQLAAGGAPVDMGTISYTVSTANRV-ST---Y-S-A------------------------
+---------------------GQV-TLE--IL-----N-----EVT-TGNSLEPREMAFVTIPL------AAASDGVWTS
+--------D---QLTVNDKFIVEVKPSIGAALPISRTMPLGMTAGT--YY--EVF
+>MCL2459951.1 flagellin [Euryarchaeota archaeon] 
+M------KR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DNAFTGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKAQEVTYAGIKQATSNVVFEGHMYGNV
+TT-PGS---KGPGLVGLTFSIKVPGGGQNIDMSTTTFVYTSEKTT-PP---L-P-VVD---K--------------P-PL
+DIDDIIEY--PQKCDSSTALSGAP-QA---Q------AY----FPD-KNSILSPGASAIYTLCL---------------G
+--------E---ELNAGDWFSIEMIPAIGAPTLVTKRIDAGLING----K--PLL
+>WP_048138143.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanosarcina horonobensis] 
+MWNRL-IKN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EKGFTGLEAAIVLIAFVVVAAVFSYVMLGAGFYTTQKSQEVVHTGVAQASSSLAPSGDVIVKA
+TN-A------GDTAESITFYVTNTAGGTDVDLDKTIITYTDKDEA-ET---Q-E-YGA----------------------
+-------------------GANGW-VYT--GV----ISN----TAV-ADNLLSKGEKYKIVMTL------GT-------T
+F----GADS---LPGINEQIKVEVKPPEGAVLSITRTLPAALTSDN--YY--PVY
+>WP_317065408.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus sp. Wushi-C6] 
+MRL---IQK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTSVGQASSSVEVIGDVYGRD
+TD-A------DSKIDRLEFTLGLTAGGSVVDMNSTVLTYTTSTEY-KI---L-T-RDE---E----HS----PGG-S-PG
+-------------------AAGQW-TIF--SV-----KN----PTT-AGSVLEKGEQFVMQVDV------P---------
+--------T---SIDKNEQFTLEVKPATGATLSITRTAPAEIDKI----N--VLY
+>MEA2034512.1 archaellin/type IV pilin N-terminal domain-containing protein [Euryarchaeota archaeon] 
+MRK-L-MNK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVYSSVEQASSSIEILGDVYGLA
+DD-P------ASDINTLQFTLGLTSGGTAVDFDKVVMTYSTATYG-PT---I-L-NGS---L--------------N-DM
+-------------------VAGGW-NIT--NV-----SNRVEDVAS-ADKLLESNEQFVINATL------PS-------D
+--------H---NLEENEDFNLEIKPSVGTALGIKRTGPNKIYNV----N--VLY
+>MDD5048900.1 flagellin [Methanoregulaceae archaeon] 
+MKR-V-IRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVTQASSNIVVKGEVYGIK
+DN-T------SNEVQYVRFNVGLAAGGTPVDMNRTSLTFSTVNQI-PY-T-V-L-YDE---D----NF----NKS-T-MP
+-------------------DAGYW-TIT--EI-----SA----GAT-EDGTLQTAETFTIYVAP------S---------
+--------A---GLVPREQFLLEIQPEIGAALGISRSVPPSITNT----T--LLY
+>WP_253487895.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanocalculus alkaliphilus] 
+MTL---RRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFIVVAAVFSYVMLGAGFFTTQKSQETVYSAIGQAGTNMEVSGPVILET
+N--T------DSQVKSVAFTLILAAGGMPVDMKRVTYTVSTQTSI-DD---L-T-LND---A-----------------A
+---------------------V---DM----S-----KH----NAN-DNDLLERGEIAEITITG------SS-------V
+--------G---NIKANLPFTIEVKPSTGAALPITRFAPLSFGKNA--FY--EVY
+>NLV27302.1 hypothetical protein [Methanomicrobiales archaeon] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DNAFSGLEAAIVMIAFVVVAAVFAYSMISMGFFATQKVQDVTYAGIKQSTSVAITDGLIRGGY
+NS--------DTGLTSLTFSISVPETGEPIDLSKMIYYYVRNSET-GN---E-I-PLN----------------------
+--------------------------------------Y----VTP-GSGILQPGGSVRVRLSL------SEA-----GL
+--------S---GPKAGGSFSLEIKPPTGASTLIQRSLPSGYNG-----G--YIS
+>MDD1723514.1 RDD family protein [Methanospirillum sp.] 
+M------TEMNFCPVCGKELEDKTTEKCPSCGETIRENTGSKKEYVGFGTRFAAYLIDSIILFIIGAGIGLCIGLMFGQL
+SPVFGYILGLVVVFLYFILLEASSSQATIGKKLVNIIVVNDQSARISYGQAFIRRFIITIPLVNIISAIIIDTNDKKQGL
+HDKAAKTYVMFKNDKRSNIVIIILIIVVVLILLTVCAAIFSYLMLGAGFFTTQKSQEITYSGIKQTTSTVLFDGTMQGVY
+A----------DGLRKCSFNLKVPSGETPQKIEDIQFLWTYMNGA-PV---E-I-HD-----------------------
+-------------------------------------------VLP-ATGIIQPGSSVAITLTI------PQ-------D
+--------Q---QPKAGEFFVLEMKPEKGPSSLVMRTLSSRYTG-----G--PII
+>WP_319578158.1 archaellin/type IV pilin N-terminal domain-containing protein [uncultured Methanospirillum sp.] 
+M------SR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EPGFSGLEAAVVLIAFVVVAAVFAYVTMSTGFFATQRFQEVTYAGIKQSTSTAITDGLVRGKY
+TD--------ANGLESLSFSLSVPETGEAIDLSEMVYYYAQGSGA-GG---E-V-PLA----------------------
+--------------------------------------N----VQP-GSGLLYPGGSTRVTLNL------LTA-----GM
+--------S---GPKAGGSFSLEIKPPVGASTLIQRTMPDAFAG-----G--YIP
+>NLL09615.1 hypothetical protein [Methanomicrobiales archaeon] 
+M------NK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DDGFSGLEAAIVLIAFVVVATVFAYATLGSGFYVSDKAQQSVHQGTKTASTSVYQEGGIYGTM
+HA-D------THQLDRLFFTIYVPDGAENQDLTEMIISYTQSDVSNPR---E-Y-KWS---E--------------T-AA
+------------------N-PDH---------------F----YAQ-GLDLLHAGKNVKIELAN---------------V
+--------E---GPRTGGWFTIEIIPKTGSPLFVKRWIEQGFDG-----G--VII
+>NLV28528.1 flagellin [Methanomicrobiales archaeon] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EQAFSGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKAQEVTYSGIQQSTSNMVIDGNIYGTL
+NA--------GKELKQVKFYVNVPIGGQAQDMKEVTFAWSTEISKGPT---T-I-EHA---T--------------A-IA
+------------------------------D------DK----FTS-TEKTLQPGEKSYITIQL------A--------D
+--------G---GIKAGQWFTMEMKPKIGAATLTKKTLTTGYEG-----G--VIT
+>NLV26315.1 hypothetical protein [Methanomicrobiales archaeon] 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------------------------MLIAFVVVGAVFSYALIGSGFFASAKAQEATGAGVKQATSNVIVDGYLYGTY
+S----------DKLDALNFLIVVPEGNEPCSLSDIKYVYSYDGGS-PQ---E-I-PG-----------------------
+-------------------------------------------ISPDGFTSVSSDKSVQVRLE--------N-------L
+--------G---GPAAGGTFTLELKPKIGASLFLSRKLSEGYDG-----GVILTA
+>MDI6719522.1 flagellin [Methanomicrobiales archaeon] 
+MRS---MNR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQESQRVVHTGVSQATSNMEILGDVYGLD
+TN-G------NGEMDTVRFTVGLAAGGAPIDMTKVQMVWSTASTV-ET---I-A-NVT---N----LT------G-D-PA
+-------------------EGGKW-NIS--EQ-----N-----FGD-TDLLLESGEQFTVYVMP------T---------
+--------A---ELGTSTKFSLEVRPSIGAALGLTRTTPAQIDAV----N--KLY
+>QQR70997.1 MAG: flagellin [Methanolinea sp.] 
+MRK-F-VDN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTEKSQEVVHAGVSSAATNIVVKGNVYGLA
+DD-S------TKGVDTIQFDVGLASGGLPVDMNKVAMIYSDANST-PT---H-L-KGP---E--------------S-AI
+-------------------AVASW-TIL--DT-----P-----QKG-GDNVLEYGETFTIQLQP------PT-------G
+-------SK---PIKQRTPFSVEIKPEIGASLAISRTIPPSLTNT----T--ILY
+>WP_301662429.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus sp. FWC-SCC1] 
+MSK-I-VRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTGVAQASSSMEISGPVVIGA
+D--N------ANQVQNITFYLQLAAGGTSVDMSKVTYTVATNETI-ET---F-T-NST---V-----------------W
+---------------------YTW-YIS--GQ-----EN----SAP-DDWLLDEFEFVRVTLGE------NT-------T
+------NVP---TIRTNQEFDVEIRPDSGASYPLERNAPPYLSSGK--YY--EVY
+>MDD5188573.1 flagellin [Methanoregula sp.] 
+MPS---NKS-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------SDAFTGLEAAIVLIAFVVVAAVFSYVILGAGFYTSQKSQETVYKGMEQATTNIQMIGQVYGIA
+SV-P------ANGINEIKFTIGLAPGAPSIDLRSMTIVYASANST-TL-QIL-T-HAN---A--------------T-TA
+-------------------DASQT-EFT--SK----VIG----RGD-NVNSLSGTQQMEIDFKV----------------
+--------P---ILGASETMNIEIRPAVGASLPFSKSAPATIKAI----N--ILA
+>WP_304021232.1 flagellin [Methanospirillum hungatei] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EAAFSGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKSQEVTYSGIKQSTSNLVLDGQLYGTM
+SG-S------PSALTTIKFYLAIPEGGQPQKLSDVSFLLTVNNGA-VN---D-V-KSS---A------------------
+--------------------------------------T----FNP-STDVLAAGDRVQVTLAS---------------L
+--------S---GPQAGGSFTLEIKPKVGASTLVAKTLATGYNG-----G--VII
+>WP_268186261.1 flagellin [Methanogenium organophilum] 
+MLK-I-MNR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVYTSVEMASSNLEVIGDVYGLA
+AD-T------ATGVDTIRFTVGLSAGGSPVDFSTVQMVFATEDTV-EI---L-N-ATS---G------------H-T-DA
+-------------------LSGTD-KEW--NI-----T-----DGV-TGTDLLLEDQDKFTILA------HP-------T
+--------D---ELTENEEFNLEIRPSVGAAFGLKRTIPAKINSV----N--LLY
+>OPY42397.1 MAG: flagellin [Methanoregulaceae archaeon PtaU1.Bin222] 
+MRK-H-ELK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQETIYAGVGQSTSNIEIVGPVSVNA
+TT-A------GTGVSAIMFKIKPAAGASDIDLQKMTFTITTKNVV-AD---F-V-SSQ---V------------------
+----------------------GW-IGV---------GT----FTD-PDMLLKSGEIMEIVVPG------GS-------T
+MLPSLTPPV---PIGTSETFSIEIKPAIGAPLMLQKTTPAGMSPDG--YY--ELY
+>PKL60893.1 MAG: flagellin [Methanomicrobiales archaeon HGW-Methanomicrobiales-4] 
+M------KI-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DGGFSGLEAAIVLIAFVVVAAVFSYTMLGAGFFATSKAQDVTHTGMKQASSGTYIDGSLYGGM
+S---------NDQLDQIMFYIAIPETGLDQDLSKMQMAYTQIDVGGAS---S-V-SMP---K----PM----SIG-A-VA
+------------------D-ANHF-SV---S------DE----PGS-TSGVLKAGSKTRINFKA---------------L
+--------A---GPHATGTFTIEVKPQNGASYLLQRYLPEGYIG-----G--VLK
+>WP_332449528.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus sp.] 
+MSK-F-VRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTGVDQASSNMEVAGPVILEA
+A--N------STAVENISFYLQLAAGGSPVDMSKVTYTVSTKDDL-AT---Y-T-YNQGNDV-----------------T
+---------------------LTW-F------------N----NQT-ANALLDKFETVRVDVPV------GN-------D
+--------V---IIGPNVRFTAEIKPDIGASYPISRVAPPDMADGK--FY--EVY
+>HOX35577.1 flagellin [Methanoregulaceae archaeon] 
+MQE-SDLRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------TDAFTGLEAAIVLIAFVVVAAVFSYVILGAGYYATQKSQETVYKSVEQATSNIQVTGQVYGIA
+SA-S------SNAIDTIQFTISLAPGAPPMDMTHLSVLFSSSSVA-PV-----T-YTY---G------------G-A-TA
+-------------------TTGEF-SSV--NA-----K-----TGA-EATALTSGDQVMITLLL------EE-------A
+--------S---RLSAGQHFNLEVRPALGSSFTITRDVGAMVFNT-------NIM
+>5TFY_A Chain A, Flagellin [Methanospirillum hungatei JF-1] 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------FSGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKSQEVTYSGMKQATSNLILDGMIYGSY
+SK-G------GSGLAQLYFYVKVPEGGETQDLKYVTYLWTKENKA-VT---T-L-TS-----------------------
+-------------------------------------------ITP-TNQQLNPGARVKVTITA---------------P
+--------TG-YKPIAGQKFVLEIKPKTGASTIVTRTLSDGYNG-----G--VII
+>MCX6698932.1 flagellin [Methanomicrobiales archaeon] 
+MSM-K-NRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQQVVHAGVTQAASNIVVKGEVYGLN
+SS-AI----PIDAVSVIRFDIGLAAGGLPVDVDRMTIVMSTNASV-TT---L-S-QTQ---T-----------AN-M-DP
+-------------------TSNTW-NVQ--ST-----NN---AGSG-TDHLLQADEVFTIYLKP------NT-------T
+--------Q---PLYPRTVFNIELKPETGASLGIMRTIQPGLSNV----N--LLY
+>WP_248533289.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus sp. 7T] 
+MSK-F-VRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFIVVAAVFSYVMLGAGFFATGEAQRVVQTGVAQASSNLELSGPVIVTA
+S--S------TTGLGKISFFLQLAAGGASVDMKKVTFTVATSTDM-KT---Y-Q-YGD---V-----------------G
+---------------------STW-YAN--GV-----EQ----TTA-KNDMLDKFEMVKITVPG------SS-------G
+A-----ALP---KIEPNHRFTVEVKPDIGASLPINRVAPPDFQANQ--NY--EVY
+>MCL2459949.1 hypothetical protein [Euryarchaeota archaeon] 
+M------KR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DNAFTGLEAAIVLIAFVVVAAIFSYVMLGAGFFATQKAQEVTYAGVKQTTSNLIPGGTLYGNM
+TA-DG----AESKLDMVQISLTVPIGGQSQELTELLITFSQEGKV-PY---N-F-GYV---T--------------S-VA
+-GK-------------PAENHGKF-TLD--QCSQGVNPD----PKI-PAVLVPPGNSCNAILYI---------------N
+--------D---GPQTGQWFQLEIKPPVGAPTTLRKTIATGYKG-----G--KLL
+>NYT05654.1 flagellin [Methanomicrobiales archaeon] 
+MRN-M-MRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVYTGVSQASSSIEILGDVYGLK
+NA-T------ATDIDRIRFTVGLSAGGTAIDFTKVTMTWSDASNV-YI---L-P-AEP---T----LY----AAA-T-DP
+-------------------RAGYW-RIV--DI-----QN----GAT-TDALLENTEQYTIVAFL------GD-------G
+--------K---HLDTNEKFNLEIRPSTGAALGIKRTGPAKIDAV----N--LLY
+>WP_128694458.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus taiwanensis] 
+MSK-I-VRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTGVDQASSSLELSGPVTVLA
+SG--------TDTVEEVYFFLQVAAGGTALDMSKVTYTVSTAGKQ-YT---Y-V-DAD---S-----------------D
+-------------------DAGSIDTVTRAYV-----GP----EHD-TDDLLESLEMVQITVAT------AGAGGQFIGT
+--------D---KIDVNDKFTIEVKPDKGAALPIERTAPAAMTDNN--YY--EVY
+>OPX68687.1 MAG: flagellin [Methanoregulaceae archaeon PtaB.Bin009] 
+MKK---FNK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVTQAASNIVVKGEVYGVT
+NA--------TDKVNFLRFDVGLAAGGVPVDMSRSTLILSTTQNV-SR---L-E-YQG---D----TD------L-E-EP
+-------------------NAGNW-TIY--QK-----SL----HAT-NDTLLQADESFTVMVAP------P---------
+--------SG-IPLEARTTFNLEVKPELGASLGIQRTVPAGITPV----T--LLY
+>MCL2459948.1 hypothetical protein [Euryarchaeota archaeon] 
+M------KQ-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DNAFTGLEAAIVLIAFVVVAAVFSYVLLGAGFFATQKAQEVTYAGIQQTTSNMYLIGQVYGNV
+TE-PDNRTLRPNYLETINLKLGVPEGGQPQDASDILFLFSNDTGL-PI---P-L-TYK---K--------------P-SD
+-VVDFVSSPFFTK--FDAADVDVW-TVT--SIN---GLK----VVN-NDVRLYPGDRADIEIKI------DKGSHKITST
+--------R---EPESSRSFTLEIRPRIGASYLISKTLSTGFFN-----G--PIY
+>HVP94019.1 flagellin [Methanoregulaceae archaeon] 
+MKM-S-KRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQQVVHAGVTQAASNIVVKGNVYGIS
+ND--------SAHVQQIQFDIGLAAGGLPVDVDKIVYTWSTATSA-PT-N-L-N-QST--------------------SA
+-------------------APNSW-WIV--AN-----S-----SDV-KGSLLQEGQFFTIRIQP------T---------
+--------D---ALNPRDTFNLELKPENGAALGVDRTIPAGITNT----T--LLY
+>WP_241481337.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus sediminis] 
+M------RN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFIVVAAVFSYVILGAGFFTTQKSQEVVHTGVSQTSSTLEISGPVIAQA
+SS--------TANLGNVQFYLQIAAGGTSVDMRKVTYTVATTEHI-VT---Y-V-DQD---G------------------
+--------------------TGTH-KVIRTPV-----GQ----QVT-DDHMLEKHEMVMITIPL------TGTG-EFVGD
+--------N---ILTPNTPFNIDIKPDIGAALGMTKVVPPALLTDR--SY--ELY
+>HII76220.1 flagellin [Methanolinea sp.] 
+MKK---FNK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVTQAASNLVVKGEVYGIK
+NT-T------ADTVEYIRFDVGLAAGGLPIDMNRTAMVYSTTGGT-VY-T-I-T-KDN---S--G-AI----PNS-T-MP
+-------------------APGHW-GIM--DR-----RP-----DL-DNDVLQSDSLFTIYVTP------E---------
+--------G---GISPRERFNIEIKPEIGASLGIERTVPPSLTAV----T--LLY
+>MDD1679075.1 flagellin [Methanomicrobiales archaeon] 
+MRN---IVH-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVSQASSSMQIVGDVFGLS
+SD--------NTNVTTVRYSIQITAGGSSIDMSKVQMTWSTTSTV-EN---I-N-PVS---N----LS----VDD-T-TP
+-------------------GTGAW-SIG--ER-----K-----FGN-TDNLLEPGEIMTIYVQP------T---------
+--------N---GIGSNTKFDLEIKPSIGASLSLTRTIPAGVNAV----N--KLY
+>WP_292343241.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanohalophilus sp. DAL1] 
+MYKQF-SKN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DKAFTGLEAAIVLIAFVVVAAVFSYVMLGAGFYTTQKSQEVVHTGVQQASSSLISSGETIVAS
+DS-D------GDNASEVYFYLANTAGGSSVDLNKTLITYTDSDDF-VT---H-S-LTN---N----------------NS
+-------------------TSDFW-AYE--RV-----IK----SGD-AYNLVEQGEKYKITVNL------SN-------G
+G---SSWNS---LPSVNEQIKIEVKPPEGAVLAMERRMPPSLTKDS--YY--SVY
+>MDD5048902.1 flagellin [Methanoregulaceae archaeon] 
+MKK---GRR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVASVFSYVVLGAGFFTTQKSQKVIHSGMTQASSNLVLIGEVIGTR
+DDTG------QNEIEYLQFIVGLGTGGSPIDMTRISMTFSTQDDM-PY-I-V-D-YST----------------L-S-EP
+-------------------SPGTW-IIK--G-------------AT-NNGILEAGESFMICVAP------R---------
+--------D---GVGPRDQFLLEIQPETGATLRIYRTIPASITNT----T--LLY
+>KUL00951.1 MAG: Flagellin, partial [Methanomicrobiales archaeon 53_19] 
+-------RN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTGVGQASSALEVSGPVIVQA
+KD--------TTALKTVSFYLQLAAGGTSVDMSKVTYTVSTSADV-IT---W-V-DAN---S----Q------DI-I-TN
+-------------------KVTRE-YVG--TP-----S-----KPA-TDNMLDMGDMVLITIDV------DA--------
+--------AG-LAIGKNTRFLVEVKPDVGSVLPISRTAPPSLVGSS--FY--EVY
+>WP_135612969.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanococcoides sp. AM1] 
+MWNKI-SKD-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DKAFTGLEAAIVLIAFVVVAAVFSYVMLGAGFYTTQKSQEVVHTGVAQASSSVAVAGDVIIKG
+HT-S------DGSATELIFYVTNTAGGSAVDLSKSMLTYTDSDDF-KA---N----------------------------
+---------------------CTW-TST--S-------I----IGD-SDSLVERGEKYKVTANL------GN-------S
+S-----LTS---LPPVNEQIKFELKPPDGAVLVIQRTMPPEITAGS--YY--TVY
+>WP_245526653.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoculleus marisnigri] 
+M-----MRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFIVVAAVFSYVVLGAGFFTTQKSQEVVHTGVAQASSNMEVSGPVVIQA
+S---------SSEVDTITFYLQLAAGGSPIDMQKVTYVVSTKDDL-ET---F-T-YAD---I-----------------S
+-------------------ADMKW-YKD--GK-----DV----TTT-ANNLLEKFEFVKVTITP------DV--------
+--------V---SITANDKFIVEIRPDQGAAYPLERNAPPSLEDGK--YY--EVY
+>WP_211530017.1 flagellin [Methanocalculus chunghsingensis] 
+MKL---QRE-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFIVVAAVFSYVMLGAGFFTTQKSQETVYSAIGQAATNLEVSGPVVLKT
+S---------GGSVEQANFTLILAAGGVPVDLKKVTYTLSTQDQV-VD---F-G-Y------------------------
+-----------------------Y-NVS--IR----KFN----VGV-ENQLLERGEIAEVGLVL------DD-------T
+------GRQ---HIQANQPFTIEVKPSTGASLPITRYAPLSFKSTGTAYY--EVY
+>MCL2459950.1 flagellin [Euryarchaeota archaeon] 
+M------KR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DNAFTGLEAAIVLIAFVVVAAIFSYVLLGAGFFATQKAQEVTYAGIKQTTSNAVIDGSLYANT
+TS--------AGLLDGFMFNVRVPLGGEAVDMSTTTFLFTSSRNTTPQ---R-I-NVF---D--------------SELT
+-NR--------DQ--VDEPCCGAY-NLT--A------YY----PQS-KVPVLTSGEFATFMLSI------QK-------G
+--------E---ELRAKQWFALEMRPLVGAATLITKTLGSGMSS-----G--EVL
+>WP_304021230.1 flagellin [Methanospirillum hungatei] 
+MW-----KY-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEGFSGLEAAIVIIGFVVVAAVFAMSVLSSGFIATEESKETTVAGYKQASSTVYIEGAVYASL
+DS-G------TQALDKVWFSAGIPETGQPQDLSKMIIVYTHSKDP-NT---F-RTYEY----------------G-P-TP
+-------------------SDHTF-GV------------------E-GGPVMMPGDKKIFTLAE------V---------
+--------N---GPIPGGWFTIEVKPQMGAPTFVTYHLPDSFSGG----S--VLT
+>WP_218606682.1 flagellin [Methanospirillum hungatei] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EAAFSGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKSQEVTYSGVKQSTSNLVLDGQLYGSL
+TG---------TTTNKINLYLSIPEGGQPQKMREVTYVWSLSGGK-AR---D-L-SGS---A------------------
+---------------------GY-------T------AV----GSA-GTTILRPTEKIKVTLNP---------------N
+--------P---GPAPGNSFTIEIKPKVGASTLVAKTLATGYDG-----G--VII
+>MCX6693124.1 flagellin [Methanomicrobiales archaeon] 
+MKN---KRT-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQETVYTAAKQASSNLAQSGPLILET
+NG-A------VAKVENITFNMKLAAGGSPVDMTKVTYFLTTSNSS-AT---F-V-DQT---V-----------------T
+-------------------A-GTN-KIS--RL-----EV----LGD-TDNLMDPDEMWQVTVGA------NT-------A
+T-----DKV---LIEEGDQFALEIRPDVGAALLLQKYAPAGLLLGN-KFY--EVY
+>KQC08339.1 MAG: hypothetical protein APR55_11795 [Methanolinea sp. SDB] 
+MKR-V-IRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVTQAASNIVVKGEVYGIA
+NT-G------MTAVERIRFDVGLAAGGLPVDIQQAAFTLSTENEV-QS---L-T-FNT---T-----------TG-T-QP
+-------------------GDGNW-TIG--ER-----HP----TTE-TDNILQAEESMTIYVDS------GS--------
+--------I---ALSPRTMFNLEIKPEIGASLGVQRTIPPSITNV----T--LLY
+>WP_214419975.1 MULTISPECIES: flagellin [Methanospirillum] 
+M------KK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EAAFTGLEAAIVLIAFVVVAAVFSYVMLGAGFFATQKSQEVTYSGVKQATSNVVLDGQLYGTY
+SA--------GTGLTELTFYIRVPEGGESVQLADIDYLYTKVDGD-PA---S-K--------------------------
+--------------------------------------------TY-GSTSLHAGQTTKIVLSS---------------L
+--------G---GPSAGSRFTLEIKPSVGASTLVQRTLASGWTG-----G--VII
+>MDD1652583.1 flagellin [Methanomicrobiales archaeon] 
+M------RS-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQQVVHSGVEAASSNIAILGDVYGRG
+VN--------TESIVALNFTIGLAAGADSIDIDRITMAYANASV---RDD-I-T-QTT---T-----------SY-E-SP
+-------------------PAGYW-TAI--AF-----R-----NGD-TDSLLEQGEQMDVAVAL------VA-------G
+--------H---YVVKNDPFTLEISPGQGSTLTIKRKGPMAIDPM----Q--ALY
+>OPX66104.1 MAG: flagellin [Methanoregulaceae archaeon PtaB.Bin056] 
+MRR-H-EVK-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DDAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHSGVTQAASNIVIKGEVYGIA
+NS-G------STGIEYIQFDVGLAAGGVPVDINRTTMTFSTVNIA-PY-T-L-V-HQY---S--DDNLNSTEDAN-L-TI
+-------------------SDGQW-LIW--AI-----SP----GAS-ADRTLQSAETFTIRAKP------R---------
+--------D---LLTPREKFLIEVKPEIGAALGIDRSVPASITPT----T--LLY
+>WP_304836420.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanocalculus sp.] 
+MK-----RN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------EHAFTGLEAAIVLIAFVVVAAVFSYVMLGAGFFTAQKSQEVVHTGIAQAASSIELTGDVYGYG
+NT-S------STGLKSINFTIALTSGMSPMNISAMVVSYADRNQR-EY---L-T-YSP---G-----------S-----A
+-------------------SVSTW-YIS--KF-----FN----NVT-DDTVLEPTEKFTLTMTL------PT--------
+--------N---NPTPNTRFTILMQPEIGALTTVVRTVPASIYPV----N--ILR
+>WP_292348184.1 MULTISPECIES: archaellin/type IV pilin N-terminal domain-containing protein [unclassified Methanoregula] 
+MIS---KSD-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DSGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQETVYKGVEQATSNIQMIGGIYGIK
+S---------GTGIGTLELTLGLAPGAPAMDLTKLKIIVTQPDQN-TL---VQN-LAY---S--------------T-TA
+-------------------TAGT--------------H-----FGC-SNTALAGTSQEKITIKL---------------G
+--------T---PLAANNKVTIELRPAVGASLPLTRTAPATIANT----Q--VLY
+>WP_004079180.1 archaellin/type IV pilin N-terminal domain-containing protein [Methanoplanus limicola] 
+MLK---IRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DEAFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVYTSVDQASSSIEILGDVYGEA
+AT-P------ANGIDTIRFTVGLTAGGSSVDFAQTTITFSDEEAV-IR-LDG-P-DTT---I-----------AN-A-HY
+-------------------AAGQW-NVV--SA-----ANQ-ATVSA-TKYLLEGNEQFTIKVGV------PT-------G
+--------Y---LIGANEEFSLNMRPAVGTAYTISRTAPANIKSV----N--VLY
+>WP_214419977.1 MULTISPECIES: flagellin [Methanospirillum] 
+M------KR-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DLGFSGLESAIILIAFVVVASVFAYTILGSGFFATQKAQTVTQESTTEASAVMYPEGGIYGSL
+YS-GGT---YDGQLETVSFTLTIPPTGMAQDLNENIIIYTQKNKD-GT---I-T-GTP---R----TY----TFSGS-ET
+------------------P-SGLL--F---G------VE----RGD-TDPIMQPGERRAFYMAE---------------L
+--------E---GPVPGGFFTIETKPKNGVGAFIQKSLPPAYSG-----G--III
+>MDD5419908.1 flagellin [Methanomicrobiaceae archaeon] 
+MRE-N-KRN-----------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------DDGFTGLEAAIVLIAFVVVAAVFSYVVLGAGFFTTQKSQEVVHTGVAQASSNIEVSGPVIVEA
+G---------EGFVKNVAFYLQLAAGGYPVDMNKTTYAVSTADDL-MI---L-T-NDD---V-----------------S
+---------------------RYW-YNA----------Q----EEP-ENNLLDPREFVKININV------TS--------
+--------L---NIEPNERFTVEVKPDVGAAYPIQRNAPPHLTSGN--YY--EVY
