@@ -1,0 +1,99 @@
+layers	source_ncbi	Environment	EET_Potential
+contigs_mtx_inha_control_133	na	SAF-MBR	Yes
+contigs_mtx_inha_control_4	na	SAF-MBR	Yes
+contigs_mtx_inha_p1_afmbr_gac_86	na	SAF-MBR	Yes
+contigs_mtx_inha_p2_afmbr_gac_72	na	SAF-MBR	Yes
+contigs_mtx_inha_p3_afbr_gac_117	na	SAF-MBR	Yes
+contigs_mtx_inha_p3_afmbr_gac_261	na	SAF-MBR	Yes
+contigs_mtx_inha_p3_afmbr_gac_7	na	SAF-MBR	Yes
+contigs_mtx_sf_fp_safmbr_gac_124	na	SAF-MBR	Yes
+mtx_GCA_002067365_1_ASM206736v1_genomic	Lab-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	Bioreactor	Unknown
+mtx_GCA_002067495_1_ASM206749v1_genomic	Full-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	Bioreactor	Unknown
+mtx_GCA_002067705_1_ASM206770v1_genomic	Lab-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	Bioreactor	Unknown
+mtx_GCA_002067905_1_ASM206790v1_genomic	Lab-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	Bioreactor	Unknown
+mtx_GCA_002067935_1_ASM206793v1_genomic	Lab-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	Bioreactor	Unknown
+mtx_GCA_002256595_1_ASM225659v1_genomic	plant surface	Natural	Unknown
+mtx_GCA_002256665_1_ASM225666v1_genomic	mud surface	Soil	Unknown
+mtx_GCA_002497945_1_ASM249794v1_genomic	waste water	WWTP	Unknown
+mtx_GCA_002498745_1_ASM249874v1_genomic	waste water	WWTP	Unknown
+mtx_GCA_002501765_1_ASM250176v1_genomic	Oil polluted marine water	Contamination	Unknown
+mtx_GCA_002505805_1_ASM250580v1_genomic	closed biodigester	Bioreactor	Unknown
+mtx_GCA_002506335_1_ASM250633v1_genomic	soil	Soil	Unknown
+mtx_GCA_002506535_1_ASM250653v1_genomic	waste water	Natural	Unknown
+mtx_GCA_002507265_1_ASM250726v1_genomic	mud	Soil	Unknown
+mtx_GCA_003157115_1_20120600_E3D_genomic	permafrost active layer soil	Soil	Unknown
+mtx_GCA_003157915_1_20120600_E1D_genomic	permafrost active layer soil	Soil	Unknown
+mtx_GCA_003162615_1_20100900_E3D_genomic	permafrost active layer soil	Soil	Unknown
+mtx_GCA_003170635_1_20110800_E2M_genomic	permafrost active layer soil	Soil	Unknown
+mtx_GCA_003857025_1_ASM385702v1_genomic	Prairie Pothole Region wetland sediments	Sediment	Unknown
+mtx_GCA_011391755_1_ASM1139175v1_genomic	Tibetan lacustrine sediment	Sediment	Unknown
+mtx_GCA_011620785_1_ASM1162078v1_genomic	oil-contaminated soil	Contamination	Unknown
+mtx_GCA_012516895_1_ASM1251689v1_genomic	anaerobic digestion of organic wastes under variable temperature conditions and feedstocks	Bioreactor	Unknown
+mtx_GCA_012798025_1_ASM1279802v1_genomic	anaerobic digestion of organic wastes under variable temperature conditions and feedstocks	Bioreactor	Unknown
+mtx_GCA_013335585_1_ASM1333558v1_genomic	biofilm growing on a polymer composite week 18	Bioreactor	Unknown
+mtx_GCA_014361255_1_ASM1436125v1_genomic	Shengli oilfield at Shandong province	Natural	Unknown
+mtx_GCA_017994055_1_ASM1799405v1_genomic	wastewater	WWTP	Unknown
+mtx_GCA_018052825_1_ASM1805282v1_genomic	wastewater	WWTP	Unknown
+mtx_GCA_018434155_1_SM1_genomic	wastewater sludge anaerobic digester phosphite (DPO) enrichment	WWTP	Unknown
+mtx_GCA_020844795_1_ASM2084479v1_genomic	granular sludge from mesophilic upflow sludge blanket reactor	WWTP	Unknown
+mtx_GCA_022709165_1_ASM2270916v1_genomic	anaerobic digester sludge from wastewater treatment plant	WWTP	Unknown
+mtx_GCA_022710045_1_ASM2271004v1_genomic	anaerobic digester sludge	WWTP	Unknown
+mtx_GCA_023228345_1_ASM2322834v1_genomic	leachate from a leachate well at an active municipal landfill in Southern Ontario	Leachate	Unknown
+mtx_GCA_023229165_1_ASM2322916v1_genomic	leachate from a leachate well at an active municipal landfill in Southern Ontario	Leachate	Unknown
+mtx_GCA_024649985_1_ASM2464998v1_genomic	enrichment culture from mud volcano	Culture	Unknown
+mtx_GCA_025361645_1_ASM2536164v1_genomic	sediment	Sediment	Unknown
+mtx_GCA_025453685_1_ASM2545368v1_genomic	Wetland A3	Sediment	Unknown
+mtx_GCA_026394475_1_ASM2639447v1_genomic	lake sediment	Sediment	Unknown
+mtx_GCA_026394505_1_ASM2639450v1_genomic	lake sediment	Sediment	Unknown
+mtx_GCA_026394535_1_ASM2639453v1_genomic	lake sediment	Sediment	Unknown
+mtx_GCA_026394555_1_ASM2639455v1_genomic	lake water column	Natural	Unknown
+mtx_GCA_026394565_1_ASM2639456v1_genomic	lake sediment	Sediment	Unknown
+mtx_GCA_028679545_1_ASM2867954v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679575_1_ASM2867957v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679615_1_ASM2867961v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679635_1_ASM2867963v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679655_1_ASM2867965v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679665_1_ASM2867966v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679675_1_ASM2867967v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679705_1_ASM2867970v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679745_1_ASM2867974v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679775_1_ASM2867977v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679795_1_ASM2867979v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028679875_1_ASM2867987v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028682835_1_ASM2868283v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028682845_1_ASM2868284v1_genomic	freshwater wetland soil	Soil	Unknown
+mtx_GCA_028688175_1_ASM2868817v1_genomic	NEUS_C leachate from a leachate well at an active municipal landfill in the North Eastern United States	Leachate	Unknown
+mtx_GCA_028688535_1_ASM2868853v1_genomic	NEUS_C leachate from a leachate well at an active municipal landfill in the North Eastern United States	Leachate	Unknown
+mtx_GCA_028701315_1_ASM2870131v1_genomic	NEUS_F1 leachate from a leachate well at an active municipal landfill in the North Eastern United States	Leachate	Unknown
+mtx_GCA_028708055_1_ASM2870805v1_genomic	NEUS_F2 leachate from a leachate well at an active municipal landfill in the North Eastern United States	Leachate	Unknown
+mtx_GCA_029907715_1_ASM2990771v1_genomic	enrichment culture from terrestrial mud volcano	Culture	Unknown
+mtx_GCA_029972695_1_ASM2997269v1_genomic	anaerobic digester	Bioreactor	Unknown
+mtx_GCA_030055635_1_ASM3005563v1_genomic	Enrichment culture inoculated with sediment from JinZe-3 pool was maintained at 65 degree	Culture	Unknown
+mtx_GCA_030372845_1_ASM3037284v1_genomic	sugarcane mill mud	Soil	Unknown
+mtx_GCA_030372945_1_ASM3037294v1_genomic	sugarcane mill mud	Soil	Unknown
+mtx_GCA_030611205_1_ASM3061120v1_genomic	cold seep	Sediment	Unknown
+mtx_GCA_030621155_1_ASM3062115v1_genomic	cold seep	Sediment	Unknown
+mtx_GCA_030627445_1_ASM3062744v1_genomic	cold seep	Sediment	Unknown
+mtx_GCA_030642945_1_ASM3064294v1_genomic	cold seep	Sediment	Unknown
+mtx_GCA_033810815_1_ASM3381081v1_genomic	anaerobically digested sample from wastewater treatment plant	WWTP	Unknown
+mtx_GCA_033812415_1_ASM3381241v1_genomic	anaerobically digested sample from wastewater treatment plant	WWTP	Unknown
+mtx_GCA_963666555_1_piCycPorc2_Methanothrix_sp_2_1_genomic	na	na	Unknown
+mtx_GCA_963677865_1_piUroStri2_Methanothrix_sp_2_1_genomic	na	na	Unknown
+mtx_GCA_963678495_1_piUroStri2_Methanothrix_sp_1_1_genomic	na	na	Unknown
+mtx_GCF_000235565_1_ASM23556v1_genomic	na	na	Unknown
+mtx_GCF_016706325_1_ASM1670632v1_genomic	activated sludge from EsbE_18-Q3-R3-47	WWTP	Unknown
+mtx_GCF_018433005_1_SV3_genomic	wastewater sludge anaerobic digester phosphite (DPO) enrichment	WWTP	Unknown
+mtx_GCF_023229265_1_ASM2322926v1_genomic	leachate from a leachate well at an active municipal landfill in Southern Ontario	Leachate	Unknown
+mtx_GCF_024518575_1_ASM2451857v1_genomic	hot spring sediment	Sediment	Unknown
+mtx_GCF_026419855_1_ASM2641985v1_genomic	alkaline hot spring water	Natural	Unknown
+scaffolds_mtx_inha_control_pvdf_49	na	SAF-MBR	Yes
+scaffolds_mtx_inha_control_pvdf_68	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p1_afmbr_gac_25	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p1_afmbr_gac_51	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p2_afmbr_gac_67	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p2_afmbr_gac_75	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p3_afbr_gac_29	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p3_afbr_gac_7	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p3_afmbr_gac_26	na	SAF-MBR	Yes
+scaffolds_mtx_inha_p3_afmbr_gac_54	na	SAF-MBR	Yes
+scaffolds_mtx_sf_fp_safmbr_gac_208	na	SAF-MBR	Yes
